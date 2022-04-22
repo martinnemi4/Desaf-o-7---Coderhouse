@@ -1,0 +1,16 @@
+li {
+  color: blue;
+}
+li:hover {
+  color: deeppink;
+}
+
+header {
+  background-color: rgb(226, 7, 7);
+}
+
+footer {
+  background-color: rgb(7, 96, 7);
+}
+
+/*# sourceMappingURL=styles.css.map */
